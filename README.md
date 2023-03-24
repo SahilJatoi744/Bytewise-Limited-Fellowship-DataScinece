@@ -1,2 +1,5 @@
 # Bytewise-Limited-Fellowship-DataScinece
 The ByteWise Limited fellowship in data science has a dedicated repository for participants to access tasks and related resources. The repository includes instructions, data sets, and a discussion forum. This structured and supportive environment helps participants learn and grow as data scientists, preparing them for successful careers.
+### Week 2:
+<i>Week 2 of our data science journey covered the basics of Python, including installation and environment setup, printing, input, data types, operators, and data structures like lists, tuples, sets, and dictionaries. We also delved into the world of strings and learned about their various methods. With these fundamental concepts under our belt, we're ready to tackle more advanced topics in the coming weeks.
+Also, if you're interested in learning more about Python, check out this article I wrote on Medium for a comprehensive beginner's guide: https://medium.com/@Sahil_Ali/python-beginners-guide-50c102a776bc. It covers everything we've learned in Week 2 and more. Happy learning!<i>
